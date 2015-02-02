@@ -18,5 +18,7 @@ IMAGE_INSTALL += "\
 	isx-packagegroup-minimal \
 	isx-packagegroup-qt5 \
 	\
+	isx-helloworld-qt \
+	isx-speedcluster-qt \
 "
 export IMAGE_BASENAME = "isx-image-multimedia"
