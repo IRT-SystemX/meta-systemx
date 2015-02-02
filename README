@@ -1,1 +1,11 @@
-This is the irt-systemx meta layer. This layer should provide the ELA demo presented on 06 march 2014 for FUTUR@SYSTEMX
+This is the irt-systemx meta layer. 
+This layer should provide several images developed by the ELA project for IRT SystemX.
+
+It contains :
+=============
+
+isx-image-minimal 
+DESCRIPTION = "SystemX image minimal with CAN feature."
+
+isx-image-multimedia
+DESCRIPTION = "SystemX image with CAN and multimedia features : X11 and Qt5."
